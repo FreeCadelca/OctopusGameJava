@@ -1,0 +1,6 @@
+1. Create full builder pattern in Octopus
+2. Write to Artem about problems:
+ 1) with potential trash useless classes
+ 2) with error in Canvas.Paint() line 69
+ (Maybe this 2 points are connected)
+3. Create new sprites
